@@ -29,8 +29,7 @@ I’m a passionate software engineer with experience in building scalable and ef
 
 ### 📫 Let's Connect
 
-- **GitHub**: [github.com/mukeshmar](https://github.com/mukeshmar)
-- **LinkedIn**: [linkedin.com/in/mukeshmar](https://www.linkedin.com/in/mukesh-m-32864a32b/)
+- **LinkedIn**: [linkedin.com/in/mukesh](https://www.linkedin.com/in/mukesh-m-32864a32b/)
 
 Feel free to explore my repositories and get in touch if you want to collaborate on any exciting projects!
 
