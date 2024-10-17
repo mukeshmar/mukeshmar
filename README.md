@@ -1,6 +1,6 @@
 # Hi, I'm Mukesh! 👋
 
-### Java Software Engineer | Microservices | Spring Boot | AWS Enthusiast
+### Software Engineer | Java, Microservices, Spring Boot | AWS Enthusiast | System Design | Spring Cloud & Security | SQL | DSA | LLD & HLD
 
 ---
 
@@ -17,22 +17,6 @@ I’m a passionate software engineer with experience in building scalable and ef
 
 ---
 
-### 🛠️ Key Projects
-
-1. **Scalable E-commerce Platform**  
-   - **Tech Stack**: Java, Spring Boot, MySQL, Razorpay, REST APIs  
-   - **Description**: An e-commerce platform using microservices architecture for handling products and payment services.
-
-2. **BookMyScreen (Movie Booking App)**  
-   - **Tech Stack**: Java, Spring Boot, JPA, MySQL  
-   - **Description**: A clone of the BookMyShow app for movie ticket bookings with features like user management, payment integration, and show management.
-
-3. **SettleSplit (Expense Sharing App)**  
-   - **Tech Stack**: Java, Spring Boot, MySQL, REST APIs  
-   - **Description**: An application to manage group expenses and settlements using a simple and effective UI.
-
----
-
 ### 🧰 Technical Skills
 
 - **Languages**: Java, SQL
@@ -45,8 +29,8 @@ I’m a passionate software engineer with experience in building scalable and ef
 
 ### 📫 Let's Connect
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
+- **GitHub**: [github.com/mukeshmar](https://github.com/mukeshmar)
+- **LinkedIn**: [linkedin.com/in/mukeshmar](https://www.linkedin.com/in/mukesh-m-32864a32b/)
 
 Feel free to explore my repositories and get in touch if you want to collaborate on any exciting projects!
 
