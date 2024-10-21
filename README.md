@@ -1,6 +1,6 @@
 # Hi, I'm Mukesh! 👋
 
-### Software Engineer | Java, Microservices, Spring Boot | AWS Enthusiast | System Design | Spring Cloud & Security | SQL | DSA | LLD & HLD
+### Software Engineer | Java, Microservices, Spring Boot | AWS | System Design | Spring Cloud & Security | SQL | DSA | LLD & HLD | Kafka | Docker
 
 ---
 
